@@ -1,29 +1,29 @@
-👋 **你好，我是 markeruser**
+👋 **Hi, I'm markeruser**
 
-[![接单中 / 可雇佣](https://img.shields.io/badge/接单中-可雇佣-2ea44f?style=flat-square)](mailto:mootszuzegajiyuxi@gmail.com)
+[![status: available for hire](https://img.shields.io/badge/status-available%20for%20hire-2ea44f?style=flat-square)](mailto:mootszuzegajiyuxi@gmail.com)
 
-专注轻量 Web 页面、微型网页游戏与 Python 自动化工具开发。如果你有一个具体的想法——不管是想做个展示页、活动小游戏，还是想帮自己省时间的自动化小工具，都欢迎找我聊聊。
+I build lightweight web pages, small browser games, and Python automation tools. If you have a concrete idea — a landing page, a mini-game for an event, or a small automation tool that saves you time — feel free to reach out.
 
-### 🛠️ 我能帮你做什么？
+### 🛠️ What I can do
 
-- **💻 轻量展示页面：** 搭建简洁好看的个人/产品展示页，做好移动端适配与版面整理，让内容清晰易读。
-- **🎮 定制网页小游戏：** 根据活动或娱乐场景，定制 H5 小游戏（支持替换素材、自定义操作逻辑、计分规则与玩法）。
-- **⚙️ Python 自动化工具：** 把日常繁琐、重复的计算或数据处理写成脚本，一键运行，省时省力。
-- **✨ 动态交互与 3D 展示：** 制作可旋转、可调节参数、可暂停的网页 3D 动态效果，把抽象的创意变成直观的视觉展现。
+- **💻 Lightweight landing pages:** clean, good-looking pages for a person or a product, with mobile-friendly layout and tidy content that is easy to read.
+- **🎮 Custom browser mini-games:** H5 games for events or fun, with replaceable assets, custom controls, scoring rules, and gameplay.
+- **⚙️ Python automation tools:** turn repetitive calculations or data work into a script you can run with one click.
+- **✨ Interactive and 3D demos:** rotating, adjustable, pausable 3D effects on the web — turning an abstract idea into something you can see and play with.
 
-### 🚀 作品与 demo 演示
+### 🚀 Work and demos
 
-- **[网页版贪吃蛇](https://github.com/markeruser/snake-game)：** 浏览器打开即玩，同时适配电脑键盘与手机触屏，支持暂停与本地最高分记录。（可参考轻量小游戏的交互实现）
-- **[小工具与 3D 交互合集](https://github.com/markeruser/xinshou-xiangmu)：** 包含 Python 练习脚本/小工具，以及一个可自由调节视角、速度与亮度的“3D 鹈鹕骑车”趣味网页。
+- **[Snake (browser game)](https://github.com/markeruser/snake-game):** open and play in the browser; works with both keyboard and touch, supports pause and a local high score. A good reference for lightweight game interactions.
+- **[Tools and 3D interactions](https://github.com/markeruser/xinshou-xiangmu):** Python practice scripts and small utilities, plus a playful "pelican riding a bike" 3D scene with adjustable camera, speed, and lighting.
 
-### 🤝 定制合作流程
+### 🤝 Working with me
 
-如果你有定制需求，欢迎随时发邮件联系我：**[`mootszuzegajiyuxi@gmail.com`](mailto:mootszuzegajiyuxi@gmail.com)**
+If you have a project in mind, email me anytime: **[mootszuzegajiyuxi@gmail.com](mailto:mootszuzegajiyuxi@gmail.com)**
 
-**来信时可以简单说明：**
+A short note with the following helps:
 
-1. **使用场景：** 你想解决什么问题？用在什么场合？
-2. **功能要求：** 哪些功能是必须有的？是否有参考页面或效果链接？
-3. **预期准备：** 手头是否有现成素材？预期交付时间与预算范围大概是多少？
+1. **Use case:** what problem are you solving, and where will it be used?
+2. **Requirements:** which features are must-haves? Any reference pages or effects?
+3. **Preparation:** do you already have assets? A rough timeline and budget range?
 
-> **说明：** 收到邮件后，我会先评估需求的可行性，确认能做好再沟通具体方案、报价、交付时间与验收方式。不符合承接条件的我会如实告知，不耽误彼此时间。
+> **Note:** I'll review your request for feasibility first. If it's a good fit, we'll discuss the approach, quote, timeline, and acceptance criteria. If it's not something I can take on, I'll tell you honestly rather than waste your time.
